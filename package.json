@@ -1,0 +1,14 @@
+{
+  "name": "personal-blog-cms",
+  "version": "1.0.0",
+  "description": "Lightweight CMS and blog engine built with Node.js and Express",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
